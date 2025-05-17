@@ -5,3 +5,4 @@ all:
 	git pull
 	make app_name=frontend
 	make app_name=mongodb
+	make app_name=mysql
